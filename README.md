@@ -210,7 +210,7 @@ Los usuarios eliminados permanecen en la tabla con `Anulado = 0`. Para consultar
 
 ## 👥 Integrante y Contexto
 
-- **Integrante:** Mario Fernandez
+- **Integrantes:** Mario Fernandez, Norlan Ortega, Alejandro Vargas
 - **Institución:** Universidad Tecnológica de Panamá (UTP) — Facultad de Ingeniería en Sistemas Computacionales
 - **Asignatura:** Herramientas de Programación Aplicada III (.NET)
 - **Grupo:** 1IL133
